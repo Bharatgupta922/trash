@@ -1,0 +1,26 @@
+.checkout{
+    display: flex;
+    padding: 20px;
+    /* background-color: white; */
+    background-image: url("https://media.architecturaldigest.com/photos/5aff319a55eb56087f0434ac/4:3/w_4039,h_3029,c_limit/pottery-making.jpg");
+    width: 1496px;
+    /* height: 1300px; */
+    height:1600px;
+    
+}
+
+.checkout__ad{
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+.checkout__title{
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+
+h2 , h3{
+    color: white;
+} 
